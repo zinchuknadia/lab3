@@ -1,0 +1,979 @@
+
+team 1
+Tutor Marta, health=100, attack=40
+Smartypants Dana, health=100, attack=55
+Normis Nadiia, health=80, attack=50
+Normis Vadim, health=80, attack=50
+Slouch Ledentsow, health=50, attack=45
+Slouch Yurii, health=50, attack=45
+
+team 2
+Tutor Shpak, health=100, attack=40
+Smartypants Maikle, health=100, attack=55
+Smartypants Ostap, health=100, attack=55
+Normis marta, health=80, attack=50
+Slouch Orest, health=50, attack=45
+[0;37m==========================================[0m
+Slouch Orest[0;35m attacked [0mNormis Vadim
+Normis Vadim health=80
+[0;37m==========================================[0m
+Normis Vadim[0;35m attacked [0mTutor Shpak
+Tutor Shpak health=92
+[0;37m==========================================[0m
+Slouch Yurii[0;35m attacked [0mTutor Shpak
+Tutor Shpak health=92
+[0;37m==========================================[0m
+Smartypants Ostap[0;35m attacked [0mNormis Vadim
+Normis Vadim health=67
+[0;37m==========================================[0m
+Slouch Yurii[0;35m attacked [0mSmartypants Ostap
+Smartypants Ostap health=100
+[0;37m==========================================[0m
+Smartypants Dana[0;35m attacked [0mTutor Shpak
+Tutor Shpak health=83
+[0;37m==========================================[0m
+Slouch Yurii[0;35m attacked [0mSlouch Orest
+Slouch Orest health=50
+[0;37m==========================================[0m
+Smartypants Ostap[0;35m attacked [0mSlouch Yurii
+Slouch Yurii health=41
+[0;37m==========================================[0m
+Droid marta[0;92m vaccinated[0m itself
+Normis marta health=89
+[0;37m==========================================[0m
+Slouch Ledentsow[0;35m attacked [0mSmartypants Maikle
+Smartypants Maikle health=100
+[0;37m==========================================[0m
+Slouch Orest[0;35m attacked [0mSlouch Ledentsow
+Slouch Ledentsow health=42
+[0;37m==========================================[0m
+Tutor Marta[0;35m attacked [0mNormis marta
+Normis marta health=79
+[0;37m==========================================[0m
+Slouch Orest[0;35m attacked [0mNormis Nadiia
+Normis Nadiia health=69
+[0;37m==========================================[0m
+Normis Nadiia[0;35m attacked [0mSlouch Orest
+Slouch Orest health=42
+[0;37m==========================================[0m
+Smartypants Maikle[0;35m attacked [0mSmartypants Dana
+Smartypants Dana health=70
+[0;37m==========================================[0m
+Slouch Ledentsow[0;35m attacked [0mNormis marta
+Normis marta health=62
+[0;37m==========================================[0m
+Smartypants Maikle[0;35m attacked [0mSlouch Yurii
+Slouch Yurii health=26
+[0;37m==========================================[0m
+Normis Vadim[0;35m attacked [0mSmartypants Maikle
+Smartypants Maikle health=77
+[0;37m==========================================[0m
+Normis marta[0;35m attacked [0mSlouch Ledentsow
+Slouch Ledentsow health=35
+[0;37m==========================================[0m
+Smartypants Ostap[0;35m attacked [0mNormis Vadim
+Normis Vadim health=42
+[0;37m==========================================[0m
+Normis Nadiia[0;35m attacked [0mNormis marta
+Normis marta health=44
+[0;37m==========================================[0m
+Slouch Yurii[0;35m attacked [0mSmartypants Maikle
+Smartypants Maikle health=77
+[0;37m==========================================[0m
+Normis Nadiia[0;35m attacked [0mSmartypants Ostap
+Smartypants Ostap health=75
+[0;37m==========================================[0m
+Droid marta[0;92m healed[0m itself
+Normis marta health=46
+[0;37m==========================================[0m
+Smartypants Ostap[0;35m attacked [0mNormis Vadim
+Normis Vadim health=22
+[0;37m==========================================[0m
+Smartypants Ostap[0;35m attacked [0mNormis Vadim
+Normis Vadim health=0
+Normis Vadim[0;31m died[0m
+
+team1
+Tutor Marta, health=100, attack=40
+Smartypants Dana, health=70, attack=55
+Normis Nadiia, health=69, attack=50
+Slouch Ledentsow, health=35, attack=45
+Slouch Yurii, health=26, attack=45
+[0;37m==========================================[0m
+Tutor Shpak[0;35m attacked [0mSmartypants Dana
+Smartypants Dana health=45
+[0;37m==========================================[0m
+Tutor Shpak[0;35m attacked [0mNormis Nadiia
+Normis Nadiia health=59
+[0;37m==========================================[0m
+Slouch Yurii[0;35m attacked [0mSmartypants Maikle
+Smartypants Maikle health=77
+[0;37m==========================================[0m
+Smartypants Ostap[0;35m attacked [0mSlouch Yurii
+Slouch Yurii health=14
+[0;37m==========================================[0m
+Tutor Shpak[0;35m attacked [0mTutor Marta
+Tutor Marta health=96
+[0;37m==========================================[0m
+Smartypants Dana[0;35m attacked [0mSmartypants Ostap
+Smartypants Ostap health=57
+[0;37m==========================================[0m
+Smartypants Maikle[0;35m attacked [0mSmartypants Dana
+Smartypants Dana health=24
+[0;37m==========================================[0m
+Normis Nadiia[0;35m attacked [0mNormis marta
+Normis marta health=29
+[0;37m==========================================[0m
+Slouch Ledentsow[0;35m attacked [0mNormis marta
+Normis marta health=29
+[0;37m==========================================[0m
+Droid Nadiia[0;92m healed[0m itself
+Normis Nadiia health=60
+[0;37m==========================================[0m
+Slouch Orest[0;35m attacked [0mTutor Marta
+Tutor Marta health=96
+[0;37m==========================================[0m
+Normis Nadiia[0;35m attacked [0mTutor Shpak
+Tutor Shpak health=77
+[0;37m==========================================[0m
+Smartypants Maikle[0;35m attacked [0mSlouch Yurii
+Slouch Yurii health=0
+Slouch Yurii[0;31m died[0m
+
+team1
+Tutor Marta, health=96, attack=40
+Smartypants Dana, health=24, attack=55
+Normis Nadiia, health=60, attack=50
+Slouch Ledentsow, health=35, attack=45
+[0;37m==========================================[0m
+Smartypants Dana[0;35m attacked [0mSmartypants Ostap
+Smartypants Ostap health=32
+[0;37m==========================================[0m
+Normis Nadiia[0;35m attacked [0mSlouch Orest
+Slouch Orest health=32
+[0;37m==========================================[0m
+Slouch Orest[0;35m attacked [0mSmartypants Dana
+Smartypants Dana health=24
+[0;37m==========================================[0m
+Normis Nadiia[0;35m attacked [0mSmartypants Ostap
+Smartypants Ostap health=1
+[0;37m==========================================[0m
+Smartypants Maikle[0;35m attacked [0mNormis Nadiia
+Normis Nadiia health=33
+[0;37m==========================================[0m
+Droid Nadiia[0;92m healed[0m itself
+Normis Nadiia health=37
+[0;37m==========================================[0m
+Smartypants Maikle[0;35m attacked [0mSlouch Ledentsow
+Slouch Ledentsow health=26
+[0;37m==========================================[0m
+Tutor Shpak[0;35m attacked [0mSlouch Ledentsow
+Slouch Ledentsow health=0
+Slouch Ledentsow[0;31m died[0m
+
+team1
+Tutor Marta, health=96, attack=40
+Smartypants Dana, health=24, attack=55
+Normis Nadiia, health=37, attack=50
+[0;37m==========================================[0m
+Slouch Orest[0;35m attacked [0mSmartypants Dana
+Smartypants Dana health=24
+[0;37m==========================================[0m
+Droid Nadiia[0;92m healed[0m itself
+Normis Nadiia health=38
+[0;37m==========================================[0m
+Normis marta[0;35m attacked [0mSmartypants Dana
+Smartypants Dana health=4
+[0;37m==========================================[0m
+Slouch Orest[0;35m attacked [0mSmartypants Dana
+Smartypants Dana health=4
+[0;37m==========================================[0m
+Smartypants Dana[0;35m attacked [0mSlouch Orest
+Slouch Orest health=22
+[0;37m==========================================[0m
+Normis Nadiia[0;35m attacked [0mSmartypants Maikle
+Smartypants Maikle health=42
+[0;37m==========================================[0m
+Smartypants Dana[0;35m attacked [0mTutor Shpak
+Tutor Shpak health=69
+[0;37m==========================================[0m
+Normis Nadiia[0;35m attacked [0mTutor Shpak
+Tutor Shpak health=62
+[0;37m==========================================[0m
+Smartypants Ostap[0;35m attacked [0mTutor Marta
+Tutor Marta health=86
+[0;37m==========================================[0m
+Smartypants Maikle[0;35m attacked [0mTutor Marta
+Tutor Marta health=77
+[0;37m==========================================[0m
+Tutor Shpak[0;35m attacked [0mSmartypants Dana
+Smartypants Dana health=0
+Smartypants Dana[0;31m died[0m
+
+team1
+Tutor Marta, health=77, attack=40
+Normis Nadiia, health=38, attack=50
+[0;37m==========================================[0m
+Normis Nadiia[0;35m attacked [0mSmartypants Ostap
+Smartypants Ostap health=0
+Smartypants Ostap[0;31m died[0m
+
+team2
+Tutor Shpak, health=62, attack=40
+Smartypants Maikle, health=42, attack=55
+Normis marta, health=29, attack=50
+Slouch Orest, health=22, attack=45
+[0;37m==========================================[0m
+Smartypants Maikle[0;35m attacked [0mNormis Nadiia
+Normis Nadiia health=11
+[0;37m==========================================[0m
+Normis marta[0;35m attacked [0mNormis Nadiia
+Normis Nadiia health=0
+Normis Nadiia[0;31m died[0m
+
+team1
+Tutor Marta, health=77, attack=40
+[0;37m==========================================[0m
+Tutor Marta[0;35m attacked [0mSlouch Orest
+Slouch Orest health=0
+Slouch Orest[0;31m died[0m
+
+team2
+Tutor Shpak, health=62, attack=40
+Smartypants Maikle, health=42, attack=55
+Normis marta, health=29, attack=50
+[0;37m==========================================[0m
+Tutor Marta[0;35m attacked [0mTutor Shpak
+Tutor Shpak health=54
+[0;37m==========================================[0m
+Tutor Shpak[0;35m attacked [0mTutor Marta
+Tutor Marta health=73
+[0;37m==========================================[0m
+Normis marta[0;35m attacked [0mTutor Marta
+Tutor Marta health=63
+[0;37m==========================================[0m
+Normis marta[0;35m attacked [0mTutor Marta
+Tutor Marta health=54
+[0;37m==========================================[0m
+Droid marta[0;92m healed[0m itself
+Normis marta health=36
+[0;37m==========================================[0m
+Smartypants Maikle[0;35m attacked [0mTutor Marta
+Tutor Marta health=47
+[0;37m==========================================[0m
+Tutor Marta[0;35m attacked [0mNormis marta
+Normis marta health=18
+[0;37m==========================================[0m
+Tutor Marta[0;35m attacked [0mNormis marta
+Normis marta health=0
+Normis marta[0;31m died[0m
+
+team2
+Tutor Shpak, health=54, attack=40
+Smartypants Maikle, health=42, attack=55
+[0;37m==========================================[0m
+Tutor Marta[0;35m attacked [0mSmartypants Maikle
+Smartypants Maikle health=22
+[0;37m==========================================[0m
+Tutor Marta[0;35m attacked [0mTutor Shpak
+Tutor Shpak health=50
+[0;37m==========================================[0m
+Tutor Shpak[0;35m attacked [0mTutor Marta
+Tutor Marta health=42
+[0;37m==========================================[0m
+Tutor Shpak[0;35m attacked [0mTutor Marta
+Tutor Marta health=35
+[0;37m==========================================[0m
+Tutor Marta[0;35m attacked [0mSmartypants Maikle
+Smartypants Maikle health=0
+Smartypants Maikle[0;31m died[0m
+
+team2
+Tutor Shpak, health=50, attack=40
+[0;37m==========================================[0m
+Tutor Shpak[0;35m attacked [0mTutor Marta
+Tutor Marta health=29
+[0;37m==========================================[0m
+Tutor Marta[0;35m attacked [0mTutor Shpak
+Tutor Shpak health=43
+[0;37m==========================================[0m
+Tutor Marta[0;35m attacked [0mTutor Shpak
+Tutor Shpak health=39
+[0;37m==========================================[0m
+Tutor Shpak[0;35m attacked [0mTutor Marta
+Tutor Marta health=23
+[0;37m==========================================[0m
+Tutor Shpak[0;35m attacked [0mTutor Marta
+Tutor Marta health=17
+[0;37m==========================================[0m
+Tutor Shpak[0;35m attacked [0mTutor Marta
+Tutor Marta health=13
+[0;37m==========================================[0m
+Tutor Marta[0;35m attacked [0mTutor Shpak
+Tutor Shpak health=35
+[0;37m==========================================[0m
+Tutor Marta[0;35m attacked [0mTutor Shpak
+Tutor Shpak health=31
+[0;37m==========================================[0m
+Tutor Marta[0;35m attacked [0mTutor Shpak
+Tutor Shpak health=24
+[0;37m==========================================[0m
+Tutor Marta[0;35m attacked [0mTutor Shpak
+Tutor Shpak health=17
+[0;37m==========================================[0m
+Tutor Marta[0;35m attacked [0mTutor Shpak
+Tutor Shpak health=10
+[0;37m==========================================[0m
+Tutor Shpak[0;35m attacked [0mTutor Marta
+Tutor Marta health=8
+[0;37m==========================================[0m
+Tutor Shpak[0;35m attacked [0mTutor Marta
+Tutor Marta health=1
+[0;37m==========================================[0m
+Tutor Marta[0;35m attacked [0mTutor Shpak
+Tutor Shpak health=3
+[0;37m==========================================[0m
+Tutor Marta[0;35m attacked [0mTutor Shpak
+Tutor Shpak health=0
+Tutor Shpak[0;31m died[0m
+
+WINNER
+
+team1
+Tutor Marta, health=1, attack=40
+[0;37m==========================================[0m
+Slouch Yurii[0;35m attacked [0mTutor Shpak
+Tutor Shpak health=100
+[0;37m==========================================[0m
+Slouch Yurii[0;35m attacked [0mSmartypants Maikle
+Smartypants Maikle health=84
+[0;37m==========================================[0m
+Smartypants Maikle[0;35m attacked [0mNormis Vadim
+Normis Vadim health=55
+[0;37m==========================================[0m
+Smartypants Dana[0;35m attacked [0mSmartypants Maikle
+Smartypants Maikle health=51
+[0;37m==========================================[0m
+Tutor Shpak[0;35m attacked [0mNormis Nadiia
+Normis Nadiia health=68
+[0;37m==========================================[0m
+Droid Nadiia[0;92m healed[0m itself
+Normis Nadiia health=72
+[0;37m==========================================[0m
+Smartypants Dana[0;35m attacked [0mSmartypants Maikle
+Smartypants Maikle health=23
+[0;37m==========================================[0m
+Slouch Ledentsow[0;35m attacked [0mSlouch Orest
+Slouch Orest health=44
+[0;37m==========================================[0m
+Smartypants Ostap[0;35m attacked [0mNormis Nadiia
+Normis Nadiia health=46
+[0;37m==========================================[0m
+Slouch Orest[0;35m attacked [0mSlouch Yurii
+Slouch Yurii health=43
+[0;37m==========================================[0m
+Tutor Marta[0;35m attacked [0mSlouch Orest
+Slouch Orest health=9
+[0;37m==========================================[0m
+Tutor Marta[0;35m attacked [0mSmartypants Ostap
+Smartypants Ostap health=77
+[0;37m==========================================[0m
+Slouch Ledentsow[0;35m attacked [0mTutor Shpak
+Tutor Shpak health=95
+[0;37m==========================================[0m
+Normis marta[0;35m attacked [0mNormis Nadiia
+Normis Nadiia health=24
+[0;37m==========================================[0m
+Smartypants Ostap[0;35m attacked [0mSmartypants Dana
+Smartypants Dana health=68
+[0;37m==========================================[0m
+Tutor Marta[0;35m attacked [0mTutor Shpak
+Tutor Shpak health=89
+[0;37m==========================================[0m
+Smartypants Maikle[0;35m attacked [0mNormis Nadiia
+Normis Nadiia health=0
+Normis Nadiia[0;31m died[0m
+
+team1
+Tutor Marta, health=100, attack=40
+Smartypants Dana, health=68, attack=55
+Normis Vadim, health=55, attack=50
+Slouch Ledentsow, health=50, attack=45
+Slouch Yurii, health=43, attack=45
+[0;37m==========================================[0m
+Smartypants Dana[0;35m attacked [0mSmartypants Maikle
+Smartypants Maikle health=2
+[0;37m==========================================[0m
+Slouch Orest[0;35m attacked [0mSmartypants Dana
+Smartypants Dana health=42
+[0;37m==========================================[0m
+Smartypants Maikle[0;35m attacked [0mSlouch Yurii
+Slouch Yurii health=31
+[0;37m==========================================[0m
+Slouch Orest[0;35m attacked [0mSlouch Yurii
+Slouch Yurii health=31
+[0;37m==========================================[0m
+Smartypants Ostap[0;35m attacked [0mSmartypants Dana
+Smartypants Dana health=12
+[0;37m==========================================[0m
+Smartypants Dana[0;35m attacked [0mNormis marta
+Normis marta health=56
+[0;37m==========================================[0m
+Smartypants Dana[0;35m attacked [0mSmartypants Maikle
+Smartypants Maikle health=0
+Smartypants Maikle[0;31m died[0m
+
+team2
+Tutor Shpak, health=89, attack=40
+Smartypants Ostap, health=77, attack=55
+Normis marta, health=56, attack=50
+Slouch Orest, health=9, attack=45
+[0;37m==========================================[0m
+Tutor Shpak[0;35m attacked [0mNormis Vadim
+Normis Vadim health=39
+[0;37m==========================================[0m
+Tutor Shpak[0;35m attacked [0mSmartypants Dana
+Smartypants Dana health=0
+Smartypants Dana[0;31m died[0m
+
+team1
+Tutor Marta, health=100, attack=40
+Normis Vadim, health=39, attack=50
+Slouch Ledentsow, health=50, attack=45
+Slouch Yurii, health=31, attack=45
+[0;37m==========================================[0m
+Slouch Ledentsow[0;35m attacked [0mTutor Shpak
+Tutor Shpak health=89
+[0;37m==========================================[0m
+Normis marta[0;35m attacked [0mSlouch Yurii
+Slouch Yurii health=21
+[0;37m==========================================[0m
+Tutor Marta[0;35m attacked [0mTutor Shpak
+Tutor Shpak health=85
+[0;37m==========================================[0m
+Tutor Marta[0;35m attacked [0mNormis marta
+Normis marta health=38
+[0;37m==========================================[0m
+Normis Vadim[0;35m attacked [0mNormis marta
+Normis marta health=13
+[0;37m==========================================[0m
+Slouch Ledentsow[0;35m attacked [0mNormis marta
+Normis marta health=13
+[0;37m==========================================[0m
+Smartypants Ostap[0;35m attacked [0mNormis Vadim
+Normis Vadim health=18
+[0;37m==========================================[0m
+Droid Vadim[0;92m healed[0m itself
+Normis Vadim health=27
+[0;37m==========================================[0m
+Normis Vadim[0;35m attacked [0mSmartypants Ostap
+Smartypants Ostap health=56
+[0;37m==========================================[0m
+Normis marta[0;35m attacked [0mNormis Vadim
+Normis Vadim health=3
+[0;37m==========================================[0m
+Normis marta[0;35m attacked [0mSlouch Ledentsow
+Slouch Ledentsow health=40
+[0;37m==========================================[0m
+Tutor Shpak[0;35m attacked [0mSlouch Yurii
+Slouch Yurii health=0
+Slouch Yurii[0;31m died[0m
+
+team1
+Tutor Marta, health=100, attack=40
+Normis Vadim, health=3, attack=50
+Slouch Ledentsow, health=40, attack=45
+[0;37m==========================================[0m
+Slouch Ledentsow[0;35m attacked [0mSmartypants Ostap
+Smartypants Ostap health=32
+[0;37m==========================================[0m
+Slouch Orest[0;35m attacked [0mNormis Vadim
+Normis Vadim health=3
+[0;37m==========================================[0m
+Normis Vadim[0;35m attacked [0mSmartypants Ostap
+Smartypants Ostap health=2
+[0;37m==========================================[0m
+Tutor Marta[0;35m attacked [0mTutor Shpak
+Tutor Shpak health=81
+[0;37m==========================================[0m
+Droid Vadim[0;92m healed[0m itself
+Normis Vadim health=10
+[0;37m==========================================[0m
+Tutor Marta[0;35m attacked [0mNormis marta
+Normis marta health=2
+[0;37m==========================================[0m
+Slouch Ledentsow[0;35m attacked [0mSlouch Orest
+Slouch Orest health=1
+[0;37m==========================================[0m
+Normis marta[0;35m attacked [0mSlouch Ledentsow
+Slouch Ledentsow health=27
+[0;37m==========================================[0m
+Tutor Marta[0;35m attacked [0mSmartypants Ostap
+Smartypants Ostap health=0
+Smartypants Ostap[0;31m died[0m
+
+team2
+Tutor Shpak, health=81, attack=40
+Normis marta, health=2, attack=50
+Slouch Orest, health=1, attack=45
+[0;37m==========================================[0m
+Slouch Ledentsow[0;35m attacked [0mTutor Shpak
+Tutor Shpak health=81
+[0;37m==========================================[0m
+Tutor Marta[0;35m attacked [0mTutor Shpak
+Tutor Shpak health=74
+[0;37m==========================================[0m
+Slouch Ledentsow[0;35m attacked [0mSlouch Orest
+Slouch Orest health=1
+[0;37m==========================================[0m
+Normis Vadim[0;35m attacked [0mNormis marta
+Normis marta health=0
+Normis marta[0;31m died[0m
+
+team2
+Tutor Shpak, health=74, attack=40
+Slouch Orest, health=1, attack=45
+[0;37m==========================================[0m
+Slouch Ledentsow[0;35m attacked [0mSlouch Orest
+Slouch Orest health=1
+[0;37m==========================================[0m
+Droid Vadim[0;92m healed[0m itself
+Normis Vadim health=14
+[0;37m==========================================[0m
+Tutor Shpak[0;35m attacked [0mNormis Vadim
+Normis Vadim health=0
+Normis Vadim[0;31m died[0m
+
+team1
+Tutor Marta, health=100, attack=40
+Slouch Ledentsow, health=27, attack=45
+[0;37m==========================================[0m
+Tutor Shpak[0;35m attacked [0mTutor Marta
+Tutor Marta health=94
+[0;37m==========================================[0m
+Slouch Ledentsow[0;35m attacked [0mTutor Shpak
+Tutor Shpak health=74
+[0;37m==========================================[0m
+Slouch Ledentsow[0;35m attacked [0mSlouch Orest
+Slouch Orest health=0
+Slouch Orest[0;31m died[0m
+
+team2
+Tutor Shpak, health=74, attack=40
+[0;37m==========================================[0m
+Tutor Shpak[0;35m attacked [0mSlouch Ledentsow
+Slouch Ledentsow health=5
+[0;37m==========================================[0m
+Slouch Ledentsow[0;35m attacked [0mTutor Shpak
+Tutor Shpak health=70
+[0;37m==========================================[0m
+Tutor Shpak[0;35m attacked [0mTutor Marta
+Tutor Marta health=89
+[0;37m==========================================[0m
+Tutor Shpak[0;35m attacked [0mTutor Marta
+Tutor Marta health=85
+[0;37m==========================================[0m
+Slouch Ledentsow[0;35m attacked [0mTutor Shpak
+Tutor Shpak health=65
+[0;37m==========================================[0m
+Tutor Marta[0;35m attacked [0mTutor Shpak
+Tutor Shpak health=58
+[0;37m==========================================[0m
+Tutor Marta[0;35m attacked [0mTutor Shpak
+Tutor Shpak health=53
+[0;37m==========================================[0m
+Tutor Shpak[0;35m attacked [0mTutor Marta
+Tutor Marta health=79
+[0;37m==========================================[0m
+Tutor Marta[0;35m attacked [0mTutor Shpak
+Tutor Shpak health=48
+[0;37m==========================================[0m
+Tutor Marta[0;35m attacked [0mTutor Shpak
+Tutor Shpak health=43
+[0;37m==========================================[0m
+Tutor Shpak[0;35m attacked [0mSlouch Ledentsow
+Slouch Ledentsow health=0
+Slouch Ledentsow[0;31m died[0m
+
+team1
+Tutor Marta, health=79, attack=40
+[0;37m==========================================[0m
+Tutor Shpak[0;35m attacked [0mTutor Marta
+Tutor Marta health=75
+[0;37m==========================================[0m
+Tutor Shpak[0;35m attacked [0mTutor Marta
+Tutor Marta health=69
+[0;37m==========================================[0m
+Tutor Marta[0;35m attacked [0mTutor Shpak
+Tutor Shpak health=36
+[0;37m==========================================[0m
+Tutor Marta[0;35m attacked [0mTutor Shpak
+Tutor Shpak health=31
+[0;37m==========================================[0m
+Tutor Marta[0;35m attacked [0mTutor Shpak
+Tutor Shpak health=24
+[0;37m==========================================[0m
+Tutor Shpak[0;35m attacked [0mTutor Marta
+Tutor Marta health=65
+[0;37m==========================================[0m
+Tutor Marta[0;35m attacked [0mTutor Shpak
+Tutor Shpak health=18
+[0;37m==========================================[0m
+Tutor Shpak[0;35m attacked [0mTutor Marta
+Tutor Marta health=59
+[0;37m==========================================[0m
+Tutor Shpak[0;35m attacked [0mTutor Marta
+Tutor Marta health=55
+[0;37m==========================================[0m
+Tutor Marta[0;35m attacked [0mTutor Shpak
+Tutor Shpak health=11
+[0;37m==========================================[0m
+Tutor Marta[0;35m attacked [0mTutor Shpak
+Tutor Shpak health=4
+[0;37m==========================================[0m
+Tutor Marta[0;35m attacked [0mTutor Shpak
+Tutor Shpak health=0
+Tutor Shpak[0;31m died[0m
+
+WINNER
+
+team1
+Tutor Marta, health=55, attack=40
+[0;37m==========================================[0m
+Slouch Orest[0;35m attacked [0mSlouch Yurii
+Slouch Yurii health=50
+[0;37m==========================================[0m
+Normis Nadiia[0;35m attacked [0mSlouch Orest
+Slouch Orest health=36
+[0;37m==========================================[0m
+Slouch Orest[0;35m attacked [0mNormis Nadiia
+Normis Nadiia health=64
+[0;37m==========================================[0m
+Smartypants Dana[0;35m attacked [0mSlouch Orest
+Slouch Orest health=23
+[0;37m==========================================[0m
+Normis Nadiia[0;35m attacked [0mSmartypants Ostap
+Smartypants Ostap health=79
+[0;37m==========================================[0m
+Tutor Marta[0;35m attacked [0mSmartypants Ostap
+Smartypants Ostap health=60
+[0;37m==========================================[0m
+Tutor Marta[0;35m attacked [0mSlouch Orest
+Slouch Orest health=0
+Slouch Orest[0;31m died[0m
+
+team2
+Tutor Shpak, health=100, attack=40
+Smartypants Maikle, health=100, attack=55
+Smartypants Ostap, health=60, attack=55
+Normis marta, health=80, attack=50
+[0;37m==========================================[0m
+Slouch Yurii[0;35m attacked [0mSmartypants Maikle
+Smartypants Maikle health=100
+[0;37m==========================================[0m
+Normis Nadiia[0;35m attacked [0mTutor Shpak
+Tutor Shpak health=95
+[0;37m==========================================[0m
+Smartypants Ostap[0;35m attacked [0mNormis Nadiia
+Normis Nadiia health=45
+[0;37m==========================================[0m
+Tutor Shpak[0;35m attacked [0mSmartypants Dana
+Smartypants Dana health=74
+[0;37m==========================================[0m
+Tutor Marta[0;35m attacked [0mSmartypants Maikle
+Smartypants Maikle health=81
+[0;37m==========================================[0m
+Smartypants Maikle[0;35m attacked [0mSlouch Ledentsow
+Slouch Ledentsow health=39
+[0;37m==========================================[0m
+Tutor Marta[0;35m attacked [0mSmartypants Maikle
+Smartypants Maikle health=64
+[0;37m==========================================[0m
+Slouch Yurii[0;35m attacked [0mNormis marta
+Normis marta health=80
+[0;37m==========================================[0m
+Slouch Yurii[0;35m attacked [0mNormis marta
+Normis marta health=80
+[0;37m==========================================[0m
+Droid Vadim[0;92m vaccinated[0m itself
+Normis Vadim health=82
+[0;37m==========================================[0m
+Smartypants Maikle[0;35m attacked [0mSmartypants Dana
+Smartypants Dana health=51
+[0;37m==========================================[0m
+Tutor Shpak[0;35m attacked [0mSlouch Ledentsow
+Slouch Ledentsow health=7
+[0;37m==========================================[0m
+Smartypants Maikle[0;35m attacked [0mSlouch Yurii
+Slouch Yurii health=40
+[0;37m==========================================[0m
+Slouch Ledentsow[0;35m attacked [0mNormis marta
+Normis marta health=80
+[0;37m==========================================[0m
+Slouch Ledentsow[0;35m attacked [0mSmartypants Maikle
+Smartypants Maikle health=64
+[0;37m==========================================[0m
+Tutor Marta[0;35m attacked [0mNormis marta
+Normis marta health=68
+[0;37m==========================================[0m
+Normis Nadiia[0;35m attacked [0mNormis marta
+Normis marta health=44
+[0;37m==========================================[0m
+Normis Nadiia[0;35m attacked [0mNormis marta
+Normis marta health=24
+[0;37m==========================================[0m
+Smartypants Maikle[0;35m attacked [0mSlouch Ledentsow
+Slouch Ledentsow health=0
+Slouch Ledentsow[0;31m died[0m
+
+team1
+Tutor Marta, health=100, attack=40
+Smartypants Dana, health=51, attack=55
+Normis Nadiia, health=45, attack=50
+Normis Vadim, health=82, attack=50
+Slouch Yurii, health=40, attack=45
+[0;37m==========================================[0m
+Normis Vadim[0;35m attacked [0mTutor Shpak
+Tutor Shpak health=87
+[0;37m==========================================[0m
+Smartypants Ostap[0;35m attacked [0mSmartypants Dana
+Smartypants Dana health=25
+[0;37m==========================================[0m
+Smartypants Ostap[0;35m attacked [0mSmartypants Dana
+Smartypants Dana health=3
+[0;37m==========================================[0m
+Tutor Shpak[0;35m attacked [0mSmartypants Dana
+Smartypants Dana health=0
+Smartypants Dana[0;31m died[0m
+
+team1
+Tutor Marta, health=100, attack=40
+Normis Nadiia, health=45, attack=50
+Normis Vadim, health=82, attack=50
+Slouch Yurii, health=40, attack=45
+[0;37m==========================================[0m
+Droid Vadim[0;92m vaccinated[0m itself
+Normis Vadim health=84
+[0;37m==========================================[0m
+Smartypants Ostap[0;35m attacked [0mSlouch Yurii
+Slouch Yurii health=28
+[0;37m==========================================[0m
+Droid marta[0;92m healed[0m itself
+Normis marta health=30
+[0;37m==========================================[0m
+Smartypants Ostap[0;35m attacked [0mNormis Vadim
+Normis Vadim health=58
+[0;37m==========================================[0m
+Slouch Yurii[0;35m attacked [0mSmartypants Maikle
+Smartypants Maikle health=42
+[0;37m==========================================[0m
+Smartypants Ostap[0;35m attacked [0mTutor Marta
+Tutor Marta health=94
+[0;37m==========================================[0m
+Slouch Yurii[0;35m attacked [0mSmartypants Ostap
+Smartypants Ostap health=60
+[0;37m==========================================[0m
+Slouch Yurii[0;35m attacked [0mNormis marta
+Normis marta health=13
+[0;37m==========================================[0m
+Tutor Marta[0;35m attacked [0mNormis marta
+Normis marta health=0
+Normis marta[0;31m died[0m
+
+team2
+Tutor Shpak, health=87, attack=40
+Smartypants Maikle, health=42, attack=55
+Smartypants Ostap, health=60, attack=55
+[0;37m==========================================[0m
+Smartypants Ostap[0;35m attacked [0mNormis Vadim
+Normis Vadim health=44
+[0;37m==========================================[0m
+Tutor Shpak[0;35m attacked [0mNormis Vadim
+Normis Vadim health=27
+[0;37m==========================================[0m
+Smartypants Ostap[0;35m attacked [0mTutor Marta
+Tutor Marta health=87
+[0;37m==========================================[0m
+Slouch Yurii[0;35m attacked [0mTutor Shpak
+Tutor Shpak health=87
+[0;37m==========================================[0m
+Normis Vadim[0;35m attacked [0mSmartypants Ostap
+Smartypants Ostap health=28
+[0;37m==========================================[0m
+Tutor Marta[0;35m attacked [0mTutor Shpak
+Tutor Shpak health=80
+[0;37m==========================================[0m
+Smartypants Ostap[0;35m attacked [0mNormis Vadim
+Normis Vadim health=4
+[0;37m==========================================[0m
+Tutor Marta[0;35m attacked [0mTutor Shpak
+Tutor Shpak health=74
+[0;37m==========================================[0m
+Normis Vadim[0;35m attacked [0mSmartypants Ostap
+Smartypants Ostap health=10
+[0;37m==========================================[0m
+Droid Nadiia[0;92m healed[0m itself
+Normis Nadiia health=55
+[0;37m==========================================[0m
+Tutor Marta[0;35m attacked [0mTutor Shpak
+Tutor Shpak health=66
+[0;37m==========================================[0m
+Tutor Shpak[0;35m attacked [0mNormis Nadiia
+Normis Nadiia health=39
+[0;37m==========================================[0m
+Normis Nadiia[0;35m attacked [0mSmartypants Maikle
+Smartypants Maikle health=17
+[0;37m==========================================[0m
+Slouch Yurii[0;35m attacked [0mTutor Shpak
+Tutor Shpak health=66
+[0;37m==========================================[0m
+Normis Nadiia[0;35m attacked [0mTutor Shpak
+Tutor Shpak health=59
+[0;37m==========================================[0m
+Slouch Yurii[0;35m attacked [0mSmartypants Ostap
+Smartypants Ostap health=0
+Smartypants Ostap[0;31m died[0m
+
+team2
+Tutor Shpak, health=59, attack=40
+Smartypants Maikle, health=17, attack=55
+[0;37m==========================================[0m
+Droid Vadim[0;92m healed[0m itself
+Normis Vadim health=12
+[0;37m==========================================[0m
+Tutor Shpak[0;35m attacked [0mNormis Nadiia
+Normis Nadiia health=20
+[0;37m==========================================[0m
+Tutor Shpak[0;35m attacked [0mNormis Vadim
+Normis Vadim health=0
+Normis Vadim[0;31m died[0m
+
+team1
+Tutor Marta, health=87, attack=40
+Normis Nadiia, health=20, attack=50
+Slouch Yurii, health=28, attack=45
+[0;37m==========================================[0m
+Tutor Shpak[0;35m attacked [0mNormis Nadiia
+Normis Nadiia health=5
+[0;37m==========================================[0m
+Smartypants Maikle[0;35m attacked [0mNormis Nadiia
+Normis Nadiia health=0
+Normis Nadiia[0;31m died[0m
+
+team1
+Tutor Marta, health=87, attack=40
+Slouch Yurii, health=28, attack=45
+[0;37m==========================================[0m
+Slouch Yurii[0;35m attacked [0mTutor Shpak
+Tutor Shpak health=51
+[0;37m==========================================[0m
+Tutor Shpak[0;35m attacked [0mSlouch Yurii
+Slouch Yurii health=0
+Slouch Yurii[0;31m died[0m
+
+team1
+Tutor Marta, health=87, attack=40
+[0;37m==========================================[0m
+Tutor Marta[0;35m attacked [0mTutor Shpak
+Tutor Shpak health=46
+[0;37m==========================================[0m
+Tutor Shpak[0;35m attacked [0mTutor Marta
+Tutor Marta health=81
+[0;37m==========================================[0m
+Tutor Shpak[0;35m attacked [0mTutor Marta
+Tutor Marta health=75
+[0;37m==========================================[0m
+Tutor Shpak[0;35m attacked [0mTutor Marta
+Tutor Marta health=67
+[0;37m==========================================[0m
+Tutor Marta[0;35m attacked [0mTutor Shpak
+Tutor Shpak health=41
+[0;37m==========================================[0m
+Tutor Marta[0;35m attacked [0mTutor Shpak
+Tutor Shpak health=33
+[0;37m==========================================[0m
+Smartypants Maikle[0;35m attacked [0mTutor Marta
+Tutor Marta health=61
+[0;37m==========================================[0m
+Smartypants Maikle[0;35m attacked [0mTutor Marta
+Tutor Marta health=55
+[0;37m==========================================[0m
+Tutor Shpak[0;35m attacked [0mTutor Marta
+Tutor Marta health=50
+[0;37m==========================================[0m
+Tutor Marta[0;35m attacked [0mTutor Shpak
+Tutor Shpak health=27
+[0;37m==========================================[0m
+Tutor Marta[0;35m attacked [0mSmartypants Maikle
+Smartypants Maikle health=0
+Smartypants Maikle[0;31m died[0m
+
+team2
+Tutor Shpak, health=27, attack=40
+[0;37m==========================================[0m
+Tutor Marta[0;35m attacked [0mTutor Shpak
+Tutor Shpak health=20
+[0;37m==========================================[0m
+Tutor Marta[0;35m attacked [0mTutor Shpak
+Tutor Shpak health=16
+[0;37m==========================================[0m
+Tutor Marta[0;35m attacked [0mTutor Shpak
+Tutor Shpak health=8
+[0;37m==========================================[0m
+Tutor Shpak[0;35m attacked [0mTutor Marta
+Tutor Marta health=44
+[0;37m==========================================[0m
+Tutor Shpak[0;35m attacked [0mTutor Marta
+Tutor Marta health=40
+[0;37m==========================================[0m
+Tutor Shpak[0;35m attacked [0mTutor Marta
+Tutor Marta health=35
+[0;37m==========================================[0m
+Tutor Shpak[0;35m attacked [0mTutor Marta
+Tutor Marta health=29
+[0;37m==========================================[0m
+Tutor Shpak[0;35m attacked [0mTutor Marta
+Tutor Marta health=21
+[0;37m==========================================[0m
+Tutor Shpak[0;35m attacked [0mTutor Marta
+Tutor Marta health=17
+[0;37m==========================================[0m
+Tutor Shpak[0;35m attacked [0mTutor Marta
+Tutor Marta health=13
+[0;37m==========================================[0m
+Tutor Shpak[0;35m attacked [0mTutor Marta
+Tutor Marta health=6
+[0;37m==========================================[0m
+Tutor Marta[0;35m attacked [0mTutor Shpak
+Tutor Shpak health=1
+[0;37m==========================================[0m
+Tutor Marta[0;35m attacked [0mTutor Shpak
+Tutor Shpak health=0
+Tutor Shpak[0;31m died[0m
+
+WINNER
+
+team1
+Tutor Marta, health=6, attack=40
+
+team1
+Tutor Marta, health=6, attack=40
+team2 is dead
+
+team1
+Tutor Marta, health=6, attack=40
+
+team2
+Tutor Dana, health=100, attack=40
+[0;37m==========================================[0m
+Tutor Dana[0;35m attacked [0mTutor Marta
+Tutor Marta health=2
+[0;37m==========================================[0m
+Tutor Dana[0;35m attacked [0mTutor Marta
+Tutor Marta health=0
+Tutor Marta[0;31m died[0m
+
+WINNER
+
+team2
+Tutor Dana, health=100, attack=40
